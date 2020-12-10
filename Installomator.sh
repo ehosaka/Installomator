@@ -869,6 +869,11 @@ slack)
     downloadURL="https://slack.com/ssb/download-osx"
     expectedTeamID="BQR82RBBHL"
     ;;
+slack_silicon)
+    name="Slack"
+    type="dmg"
+    downloadURL="https://slack.com/ssb/download-osx-silicon"
+    expectedTeamID="BQR82RBBHL"
 sublimetext)
     # credit: Mischa van der Bent (@mischavdbent)
     name="Sublime Text"

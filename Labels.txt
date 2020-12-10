@@ -132,6 +132,7 @@ sketch
 skitch
 skype
 slack
+slack_silicon
 snagit2020
 snapgeneviewer
 sonos
