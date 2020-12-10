@@ -874,6 +874,7 @@ slack_silicon)
     type="dmg"
     downloadURL="https://slack.com/ssb/download-osx-silicon"
     expectedTeamID="BQR82RBBHL"
+    ;;
 sublimetext)
     # credit: Mischa van der Bent (@mischavdbent)
     name="Sublime Text"
